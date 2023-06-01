@@ -10,6 +10,9 @@ body{
     height: auto;
 }
 .footer{
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,5 +20,5 @@ body{
    height: 30px;
 }
 .data{
-    color: white;
+    color: black;
 }
